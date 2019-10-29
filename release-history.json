@@ -12,11 +12,12 @@
     {
     "date": "Oct 29, 2019",
     "releases": [    {
-      "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.5",
-      "timestamp": 1572352726000,
+      "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.7",
+      "latestRelease": true,
+      "timestamp": 1572366758000,
       "title": "Radiator View Plugin",
       "url": "https://plugins.jenkins.io/radiatorviewplugin",
-      "version": "1.29.5",
+      "version": "1.29.7",
       "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Radiator+View+Plugin"
     }]
   }
