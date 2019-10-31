@@ -2,7 +2,7 @@ updateCenter.post(
 {
   "id": "xdzmkus-update-center",
   "plugins": {"radiatorviewplugin":   {
-    "buildDate": "Oct 29, 2019",
+    "buildDate": "Oct 31, 2019",
     "dependencies":     [
             {
         "name": "pipeline-stage-view",
@@ -42,27 +42,27 @@ updateCenter.post(
       }
     ],
     "excerpt": "Adds a new high visibility view of project status.",
-    "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.7",
+    "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.8",
     "labels":     [
       "report",
       "ui"
     ],
     "name": "radiatorviewplugin",
-    "previousTimestamp": "2017-04-11T22:27:20.00Z",
-    "previousVersion": "1.29.3",
-    "releaseTimestamp": "2019-10-29T16:32:38.00Z",
+    "previousTimestamp": "2019-10-29T16:32:38.00Z",
+    "previousVersion": "1.29.7",
+    "releaseTimestamp": "2019-10-31T10:38:10.00Z",
     "requiredCore": "2.176.3",
     "scm": "github.com",
-    "sha1": "snb29NLavlpusLndyn2Eai9f+zA=",
+    "sha1": "xv//BBNXZHmLexiuAy0f6kUXt2k=",
     "title": "Radiator View Plugin",
-    "url": "https://github.com/xdzmkus/xdzmkus-update-center/raw/master/plugins/radiatorviewplugin/1.29.7/radiatorviewplugin-1.29.7.hpi",
-    "version": "1.29.7",
+    "url": "https://github.com/xdzmkus/xdzmkus-update-center/raw/master/plugins/radiatorviewplugin/1.29.8/radiatorviewplugin-1.29.8.hpi",
+    "version": "1.29.8",
     "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Radiator+View+Plugin"
   }},
   "signature":   {
     "certificates": ["MIIC6jCCAlOgAwIBAgIUcbU2HwgXCKDX9sxm00qoCW3gnHQwDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAkJZMQwwCgYDVQQIDANCTFIxDjAMBgNVBAcMBUJyZXN0MREwDwYDVQQKDAhFcG9sU29mdDERMA8GA1UECwwIVGl0YW5TaW0xETAPBgNVBAMMCGJyMDAyMjlsMSAwHgYJKoZIhvcNAQkBFhF4ZGt1QGVwb2xzb2Z0LmNvbTAeFw0xOTEwMTcxNTUyNTFaFw0yMjEwMTYxNTUyNTFaMIGGMQswCQYDVQQGEwJCWTEMMAoGA1UECAwDQkxSMQ4wDAYDVQQHDAVCcmVzdDERMA8GA1UECgwIRXBvbFNvZnQxETAPBgNVBAsMCFRpdGFuU2ltMREwDwYDVQQDDAhicjAwMjI5bDEgMB4GCSqGSIb3DQEJARYReGRrdUBlcG9sc29mdC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALL7sjWeP9ev5Yq7ndLz+EbTdYV4UY4eLFRUCTZ9tqEWomPmHYWM1a20uD3gX9QmxAYFM+fZGKUbFnYDlEkSj3Ib98qtZsrGuH5398QgIRu+hoJZnOUBzkmchZaWgH3RHEKrLgjXkZ3V90VW103131fhbCGqL+xXcI8nOa8OXSCLAgMBAAGjUzBRMB0GA1UdDgQWBBQ+o0fNME85ap+Qa6JkCGtDlzXsATAfBgNVHSMEGDAWgBQ+o0fNME85ap+Qa6JkCGtDlzXsATAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4GBAI+k99UzFbhiJZIrEeCL0dfJEIB+65wMJEz6Z9csfiRiZal5IMJYCbzF63PI8tPzJdtyGyUz5N2EJKVMzv0nZ8E+kPMJ1Cnnx1RDFjUp9WYS0cPJsRHZlD4Y4TWoiRG8o3EW47qcD3iJ9TAMDjmlDg3maE9XPr10PVcYxakJHKbC"],
-    "correct_digest": "kEfSGvth5itPltAVdPmBnjtl0iI=",
-    "correct_signature": "mMDA89cOMCcCwwYbItgznuQtEkPLfgLAmrkAqrsE8IT1RZau6jT9dEi5cbR2tIRLQWZK/0BtzGyquKLVp2xIEUvbeXOtNfHQsgMV9L5z+YuAH6zFktDlNAIazDXOJO6ardcFGUQZKz8cIzhlibBc5Mrc1ZpQqWzsCRcmrqx0PbI=",
+    "correct_digest": "zvHrgot3Km3oOAO9/8gzVNuEv1s=",
+    "correct_signature": "lTO3gNrKCj7RwJViodE+2VRyKydjWTfBG9rWvxLgPlAjlzWlOBIankUiJFyUijffjI0dCkNmq9N0uEwuNPorCx5Uv4TUu1qMU+up71vGW17Dsblmvou7muBrdKIWgmDaeMAckt4ozhDUDtAbOi64iooOsTPax2/XsLKEN6++vC0=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "PumkTPT405DouQGcBd9uYmzomq+0mU0upkpkuFtQb7pKeqw9BWqa7zv3Yn7rE1Oylk7hnhFwEL2aF7m891BRfXi536kkFS+sSgeLZCe99dZw3dTkU6zwBa83p3fnQL+07TJRwSII2v1BwLvvOAWfAIkjzhIcp4pfVpHwaoGv03k="
   },
