@@ -42,5 +42,17 @@
       "version": "1.29.10",
       "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Radiator+View+Plugin"
     }]
+  },
+    {
+    "date": "Nov 27, 2019",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.0.0",
+      "latestRelease": true,
+      "timestamp": 1574862936000,
+      "title": "OpenALM Plugin",
+      "url": "https://plugins.jenkins.io/openalm",
+      "version": "1.0.0"
+    }]
   }
 ]}
