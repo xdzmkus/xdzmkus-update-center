@@ -14,10 +14,8 @@
     "releases": [    {
       "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.8",
       "timestamp": 1572518290000,
-      "title": "Radiator View Plugin",
       "url": "https://plugins.jenkins.io/radiatorviewplugin",
-      "version": "1.29.8",
-      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Radiator+View+Plugin"
+      "version": "1.29.8"
     }]
   },
     {
@@ -48,11 +46,21 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.0.0",
-      "latestRelease": true,
       "timestamp": 1574862936000,
       "title": "OpenALM Plugin",
       "url": "https://plugins.jenkins.io/openalm",
       "version": "1.0.0"
+    }]
+  },
+    {
+    "date": "Dec 04, 2019",
+    "releases": [    {
+      "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.1.0",
+      "latestRelease": true,
+      "timestamp": 1575475466000,
+      "title": "OpenALM Plugin",
+      "url": "https://plugins.jenkins.io/openalm",
+      "version": "1.1.0"
     }]
   }
 ]}
