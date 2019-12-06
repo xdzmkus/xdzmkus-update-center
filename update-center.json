@@ -3,7 +3,7 @@ updateCenter.post(
   "id": "xdzmkus-update-center",
   "plugins":   {
     "openalm":     {
-      "buildDate": "Dec 05, 2019",
+      "buildDate": "Dec 06, 2019",
       "dependencies":       [
                 {
           "name": "apache-httpcomponents-client-4-api",
@@ -22,18 +22,16 @@ updateCenter.post(
         "name": "Dzmitry Kushniaruk"
       }],
       "excerpt": "OpenALM Plugin",
-      "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.2.0",
+      "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.3.0",
       "labels": [],
       "name": "openalm",
-      "previousTimestamp": "2019-12-04T16:04:26.00Z",
-      "previousVersion": "1.1.0",
-      "releaseTimestamp": "2019-12-05T16:06:18.00Z",
+      "releaseTimestamp": "2019-12-06T14:26:18.00Z",
       "requiredCore": "2.176.3",
       "scm": "github.com",
-      "sha1": "YQuJbb+NKuW6fzuGhCMtnO8UFtI=",
+      "sha1": "u2BeneYO9Ghrm6pjrQhkZYoPddQ=",
       "title": "OpenALM Plugin",
-      "url": "https://github.com/xdzmkus/xdzmkus-update-center/raw/master/plugins/openalm/1.2.0/openalm-1.2.0.hpi",
-      "version": "1.2.0"
+      "url": "https://github.com/xdzmkus/xdzmkus-update-center/raw/master/plugins/openalm/1.3.0/openalm-1.3.0.hpi",
+      "version": "1.3.0"
     },
     "radiatorviewplugin":     {
       "buildDate": "Nov 05, 2019",
@@ -82,8 +80,6 @@ updateCenter.post(
         "ui"
       ],
       "name": "radiatorviewplugin",
-      "previousTimestamp": "2019-11-04T15:15:16.00Z",
-      "previousVersion": "1.29.9",
       "releaseTimestamp": "2019-11-05T15:24:30.00Z",
       "requiredCore": "2.176.3",
       "scm": "github.com",
@@ -96,8 +92,8 @@ updateCenter.post(
   },
   "signature":   {
     "certificates": ["MIIC6jCCAlOgAwIBAgIUcbU2HwgXCKDX9sxm00qoCW3gnHQwDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAkJZMQwwCgYDVQQIDANCTFIxDjAMBgNVBAcMBUJyZXN0MREwDwYDVQQKDAhFcG9sU29mdDERMA8GA1UECwwIVGl0YW5TaW0xETAPBgNVBAMMCGJyMDAyMjlsMSAwHgYJKoZIhvcNAQkBFhF4ZGt1QGVwb2xzb2Z0LmNvbTAeFw0xOTEwMTcxNTUyNTFaFw0yMjEwMTYxNTUyNTFaMIGGMQswCQYDVQQGEwJCWTEMMAoGA1UECAwDQkxSMQ4wDAYDVQQHDAVCcmVzdDERMA8GA1UECgwIRXBvbFNvZnQxETAPBgNVBAsMCFRpdGFuU2ltMREwDwYDVQQDDAhicjAwMjI5bDEgMB4GCSqGSIb3DQEJARYReGRrdUBlcG9sc29mdC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALL7sjWeP9ev5Yq7ndLz+EbTdYV4UY4eLFRUCTZ9tqEWomPmHYWM1a20uD3gX9QmxAYFM+fZGKUbFnYDlEkSj3Ib98qtZsrGuH5398QgIRu+hoJZnOUBzkmchZaWgH3RHEKrLgjXkZ3V90VW103131fhbCGqL+xXcI8nOa8OXSCLAgMBAAGjUzBRMB0GA1UdDgQWBBQ+o0fNME85ap+Qa6JkCGtDlzXsATAfBgNVHSMEGDAWgBQ+o0fNME85ap+Qa6JkCGtDlzXsATAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4GBAI+k99UzFbhiJZIrEeCL0dfJEIB+65wMJEz6Z9csfiRiZal5IMJYCbzF63PI8tPzJdtyGyUz5N2EJKVMzv0nZ8E+kPMJ1Cnnx1RDFjUp9WYS0cPJsRHZlD4Y4TWoiRG8o3EW47qcD3iJ9TAMDjmlDg3maE9XPr10PVcYxakJHKbC"],
-    "correct_digest": "ImmIv4Zyf6+l3+k5JOeTFNG6TkA=",
-    "correct_signature": "kPvQPMfTEx51pbEDtNIHf6UQsMBbR1gHOS/eHlP2HmbGfrALz1kxqLyA79/F8fpnQiyUe+uqCP5hZ0FrCyjzsrIAdnUA7l2Zb7+dD1eLVjxN8JOoh/QM0wPrOy6Tg/9KFveK/7sl1/pWPiu1aPxlWkIvPw7p1mY9sGkMoEx9+FE=",
+    "correct_digest": "e7rk5YNbh3tG4iTpgeO4368uPvE=",
+    "correct_signature": "kBgFiTAyCiBJxxU1Xe1acSeXDqzVQyEaSvz8/QNyouj9T3H8KF7CAlxhgxk9gEfgDBPDkqzX3JWtWV0p02XzadoXB/PydcXBRXPKoUbECdBrvDR/0vAvcitlP65dIRh3mgpQn/8rGdhzHOKzzGZDVvjM/3YlZJXoOzaC7v1+kaE=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "PumkTPT405DouQGcBd9uYmzomq+0mU0upkpkuFtQb7pKeqw9BWqa7zv3Yn7rE1Oylk7hnhFwEL2aF7m891BRfXi536kkFS+sSgeLZCe99dZw3dTkU6zwBa83p3fnQL+07TJRwSII2v1BwLvvOAWfAIkjzhIcp4pfVpHwaoGv03k="
   },

@@ -1,74 +1,25 @@
 {"releaseHistory": [
     {
-    "date": "Apr 12, 2017",
-    "releases": [    {
-      "firstRelease": true,
-      "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.3",
-      "timestamp": 1491949640000,
-      "url": "https://plugins.jenkins.io/radiatorviewplugin",
-      "version": "1.29.3"
-    }]
-  },
-    {
-    "date": "Oct 31, 2019",
-    "releases": [    {
-      "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.8",
-      "timestamp": 1572518290000,
-      "url": "https://plugins.jenkins.io/radiatorviewplugin",
-      "version": "1.29.8"
-    }]
-  },
-    {
-    "date": "Nov 04, 2019",
-    "releases": [    {
-      "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.9",
-      "timestamp": 1572880516000,
-      "url": "https://plugins.jenkins.io/radiatorviewplugin",
-      "version": "1.29.9"
-    }]
-  },
-    {
     "date": "Nov 05, 2019",
     "releases": [    {
+      "firstRelease": true,
       "gav": "org.jenkins-ci.plugins:radiatorviewplugin:1.29.10",
       "latestRelease": true,
       "timestamp": 1572967470000,
-      "title": "Radiator View Plugin",
       "url": "https://plugins.jenkins.io/radiatorviewplugin",
-      "version": "1.29.10",
-      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Radiator+View+Plugin"
+      "version": "1.29.10"
     }]
   },
     {
-    "date": "Nov 27, 2019",
+    "date": "Dec 06, 2019",
     "releases": [    {
       "firstRelease": true,
-      "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.0.0",
-      "timestamp": 1574862936000,
-      "title": "OpenALM Plugin",
-      "url": "https://plugins.jenkins.io/openalm",
-      "version": "1.0.0"
-    }]
-  },
-    {
-    "date": "Dec 04, 2019",
-    "releases": [    {
-      "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.1.0",
-      "timestamp": 1575475466000,
-      "title": "OpenALM Plugin",
-      "url": "https://plugins.jenkins.io/openalm",
-      "version": "1.1.0"
-    }]
-  },
-    {
-    "date": "Dec 05, 2019",
-    "releases": [    {
-      "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.2.0",
+      "gav": "org.jenkins-ci.plugins.xdzmkus:openalm:1.3.0",
       "latestRelease": true,
-      "timestamp": 1575561978000,
+      "timestamp": 1575642378000,
       "title": "OpenALM Plugin",
       "url": "https://plugins.jenkins.io/openalm",
-      "version": "1.2.0"
+      "version": "1.3.0"
     }]
   }
 ]}
